@@ -1,19 +1,19 @@
 # CrabAgePrediction
 
 DATA SCIENCE CASE STUDY
-Asia Miles
+
 Gursewak Singh Sidhu
 Sidhus234@gmail.com
-Abstract
-Document explains how to execute the codes to replicate the results
-Files:
-1. Asia Miles Data Science case study.ipynb: This is the jupyter notebook that was used to develop the model.
-• It covers the below process:
-▪ Exploratory data analysis
-▪ Random Forest Model building (model selection and model performance)
-▪ Gradient Boosting Model building (model selection and model performance)
-▪ Linear regression (model selection and model performance)
-• Required python config and libraries:
+Abstract: The challenge consist of making some sense out of those data. We're notably looking for a method to predict the age of a crab given its features
+
+### For this project, below process is followed:
+  1. Exploratory Data Analysis: Details covered in code files (01Crab_Age_Prediction_EDA.ipynb and 01Crab_Age_Prediction_EDA2.ipynb). 
+  2. Linear Regression Model: Provides step by step process on how to select optimal Linear Regression Model (03Crab_Age_Prediction_LRModel.ipynb)
+  3. Random Fores Model: Provides step by step process on how to select optimal Random Forest Regression Model (03Crab_Age_Prediction_RFModel.ipynb)
+  4. GBM Model: Provides step by step process on how to select optimal GBM Regression Model (03Crab_Age_Prediction_GBMModel.ipynb)
+
+
+### Required python config and libraries:
 ▪ The python version 3.6.9 was used to develop the model.
 ▪ Important libraries need to execute this code are:
 1. Scikit-learn, numpy, pandas, matplotlib, pickle, os, warnings, scipy, statsmodel
