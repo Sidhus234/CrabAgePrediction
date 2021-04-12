@@ -1,0 +1,2 @@
+This folder contains images, which are output of codes folder. 
+Same images can also be found in Jupyter notebooks
