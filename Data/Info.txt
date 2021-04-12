@@ -1,0 +1,15 @@
+This folder contains a csv file with data for the project (both input and output)
+
+Key variables in the dataset are:
+  ------------ Independent Variables --------------------------
+  1. Sex: Char variable (M/F). Describes the gender of the Crab 
+  2. Length: of the Crab
+  3. Diameter: of the Crab
+  4. Height: of the Crab
+  5. Weight: of the Crab
+  6. Shucked Weight: of the Crab
+  7. Viscera Weight: of the Crab
+  8. Shell Weight: of the Crab
+  ---------------- Dependent Variable ------------------
+  9. Age: Age of the Crab (Dependent Variable)
+
